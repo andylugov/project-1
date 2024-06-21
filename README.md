@@ -30,7 +30,7 @@
 **О структуре проекта:**
 * [data](./data) - папка с исходными табличными данными
 * [plotly](./plotly) - папка с изображениями, необходимыми для проекта
-* [Project-1_Feature_Engineering_HeadHunter.ipynb](./Project-1_Feature_Engineering_HeadHunter.ipynb) - jupyter-ноутбук, содержащий основной код проекта, в котором происходят этапы Feature Engineering.
+* [Project-1._Ноутбук-Project_1.ipynb](./Project-1._Ноутбук-Project_1.ipynb) - jupyter-ноутбук, содержащий основной код проекта, в котором происходят этапы Feature Engineering.
 
 ## Описание данных
 В нашем распоряжении база резюме, выгруженная с сайта поиска вакансий [hh.ru](https://nn.hh.ru/?ysclid=lcqtddl6ky405210179).
